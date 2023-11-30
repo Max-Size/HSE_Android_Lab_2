@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_new_item">Add a new item to your shopping list</string>
+    <string name="update_your_item">Update your item</string>
+    <string name="save_changes">Save changes</string>
+    <string name="wish_list">Wish list</string>
+</resources>
